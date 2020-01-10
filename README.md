@@ -4,7 +4,8 @@ O objetivo deste projeto é exemplificar a criação de rotinas de conversão de
 
 ## Prerequisitos
 
-Python 3.*
+[Python 3.*](https://www.python.org/downloads/)
+[Pytest](https://docs.pytest.org/en/latest/contents.html)
 
 ## Author
 
