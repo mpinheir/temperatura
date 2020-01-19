@@ -1,3 +1,4 @@
+
 # """Programa para converter temperatura em Celsius para Farenheit"""
 
 # def c2f(celsius):
@@ -42,3 +43,10 @@ def main():
                         print("Invalid entry")
                 choice = menu()
 main()
+
+# """Rotinas de conversao de temperatura"""
+
+# def c2f(celsius):
+#     '''Conversao de Celsius para Farenheint'''
+#     return (9.0 / 5.0) * celsius + 32
+
