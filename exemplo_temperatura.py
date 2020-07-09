@@ -15,7 +15,6 @@ exib_f(20)
 exib_f(-40)
 
 # executa funcao para converter 32, -40, 0 Farenheit para o equivalente em Celsius
-
 exib_F(32)
 exib_F(-40)
 exib_F(0)

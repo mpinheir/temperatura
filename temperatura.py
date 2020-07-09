@@ -7,4 +7,4 @@ def c2f(celsius):
 def f2c(faren):
     '''Conversao de Farenheint para Celsius'''
     return (faren - 32) * (5.0 / 9.0)
-    
+
