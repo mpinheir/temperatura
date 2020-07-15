@@ -13,7 +13,7 @@ def exib_c2k(celsius):
     print(celsius, "Celsius =", temperatura.c2k(celsius), 'Kelvin')
 def exib_k2c(kelvin):
     '''imprime conversao de temperatura de kelvin para celsius'''
-    print(kelvin, "Kelvin =", temperatura.k2c, "Celsius")
+    print(kelvin, "Kelvin =", temperatura.k2c(kelvin), "Celsius")
 
 # executa funcao para converter 40, 20 e -40 Celsius para o equivalente em Farenheit
 exib_c2f(40)
@@ -25,10 +25,10 @@ exib_f2c(32)
 exib_f2c(-40)
 exib_f2c(0)
 
-# executa funcao para converter 40, 20, -40 Celsius para o equivalente em Kelvin
+# executa funcao para converter 40, 20, -20 Celsius para o equivalente em Kelvin
 exib_c2k(40)
 exib_c2k(20)
-exib_c2k(-40)
+exib_c2k(-20)
 
 # executa funcao para converter 0, 273.15, 65 Kelvin para o equivalente em Celsius
 exib_k2c(0)
