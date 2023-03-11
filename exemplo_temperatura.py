@@ -34,3 +34,6 @@ exib_c2k(-20)
 exib_k2c(0)
 exib_k2c(273.15)
 exib_k2c(373.15)
+
+# executa função para conerter de 10 K para C
+exib_k2c(10)
